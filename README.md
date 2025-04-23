@@ -1,3 +1,5 @@
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Linux Terminal](https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=linux&logoColor=white) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 # Simulação de Movimentação de Peças de Xadrez em C ♟️
 
 Este projeto foi desenvolvido como parte do desafio da disciplina de Programação em C, com foco no uso de estruturas de repetição (`for`, `while` e `do-while`) para simular movimentos de peças do jogo de xadrez.
