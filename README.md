@@ -31,7 +31,7 @@ Cada movimento é impresso no terminal com `printf()` a cada casa percorrida.
 1. Clone o repositório:
    ```bash
    git clone https://github.com/92username/xadrez-novato.git
-   cd xadrez-em-c
+   cd xadrez-novato
    ```
 
 2. Compile o programa:
