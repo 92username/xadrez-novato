@@ -46,6 +46,11 @@ Cada movimento é impresso no terminal com `printf()` a cada casa percorrida.
    ./xadrez
    ```
 
+## Output esperado:
+
+![Output no terminal](xadrez-novato.png)
+
+
 ## Requisitos
 
 - Linguagem: C
