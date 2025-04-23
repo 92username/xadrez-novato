@@ -5,6 +5,8 @@ Este projeto foi desenvolvido como parte do desafio da disciplina de Programaç�
 ## Universidade Estácio de Sá
 
 Projeto desenvolvido para a disciplina Introdução à Programação de Computadores.
+Curso Engenharia de Software.
+
 ## Objetivo
 
 Simular os movimentos das peças **Torre**, **Bispo** e **Rainha**, utilizando diferentes estruturas de repetição, conforme o nível novato do desafio proposto.
@@ -28,13 +30,13 @@ Cada movimento é impresso no terminal com `printf()` a cada casa percorrida.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/xadrez-em-c.git
+   git clone https://github.com/92username/xadrez-novato.git
    cd xadrez-em-c
    ```
 
 2. Compile o programa:
    ```bash
-   gcc xadrez.c -o xadrez
+   gcc xadrez-novato.c -o xadrez
    ```
 
 3. Execute:
@@ -46,11 +48,10 @@ Cada movimento é impresso no terminal com `printf()` a cada casa percorrida.
 
 - Linguagem: C
 - Compilador: GCC (ou compatível)
-- Sistema operacional: compatível com terminal
 
 ## Aprendizado
 
-Este projeto desenvolve o pensamento lógico e o uso de estruturas fundamentais da programação, sendo ideal para iniciantes que estão aprendendo a utilizar **loops** em C.
+Desenvolve o pensamento lógico e o uso de estruturas fundamentais da programação, sendo ideal para iniciantes que estão aprendendo a utilizar **loops** em C.
 
 ## 📎 Licença
 
