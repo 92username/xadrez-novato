@@ -56,6 +56,5 @@ Desenvolve o pensamento lógico e o uso de estruturas fundamentais da programaç
 ## 📎 Licença
 
 Projeto acadêmico. Uso livre para fins educacionais.  
-```
 
----
+
